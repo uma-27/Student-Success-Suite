@@ -1,0 +1,1 @@
+Student Success Suite (Option A) — see requirements.txt and app/streamlit_app.py

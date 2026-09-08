@@ -1,0 +1,11 @@
+study_hours,absences,parent_edu,internet,gender,participation,past_failures,gpa_prev,final_grade,passed
+2.5,3,bachelor,yes,F,7,1,2.8,70,1
+5.0,1,master,yes,M,9,0,3.9,95,1
+1.0,6,highschool,no,F,5,3,1.8,55,0
+3.5,2,bachelor,yes,M,8,0,3.5,88,1
+4.0,0,master,yes,F,9,0,3.7,91,1
+6.0,1,master,yes,M,10,0,4.0,97,1
+0.5,8,none,no,F,4,4,1.5,40,0
+2.0,4,highschool,no,M,6,2,2.0,65,0
+3.0,2,bachelor,yes,F,8,0,3.4,84,1
+5.5,0,master,yes,M,10,0,3.8,93,1
